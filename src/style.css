@@ -1,0 +1,64 @@
+.wrapper {
+    margin-top: 10%;
+    display: grid;
+    place-items: center;
+}
+
+.title {
+    font-size: x-large;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    
+}
+#email{
+    color: white;
+}
+#password{
+    color: white;
+}
+
+.settings {
+    margin-top: 5%;
+    font-size: larger;
+}
+
+.amount {
+    margin-bottom: 1%;
+}
+
+
+body{
+    background-color: black ;
+    color: white;
+}
+div{
+    color: white;
+}
+
+.takePayment {
+    margin-bottom: 1%;
+}
+
+.takePaymentButton {
+    margin-top: 10%;
+    size: 200px;
+    border: 'solid';
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+.ClearReader {
+    color: orange;
+}
+
+.Description{
+    margin-bottom: 2px;
+}
+
+.ClearReaderButton {
+    size: 200px;
+    border: 'solid';
+    border-radius: 5px;
+    border-width: 3px;
+}
+

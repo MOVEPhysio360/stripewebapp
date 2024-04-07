@@ -1,0 +1,2 @@
+Terminal_ID: 
+API_Key:
