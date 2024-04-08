@@ -204,11 +204,11 @@ function App() {
     </div>
    
     <div >
-      Amount $
+      Amount £
     </div>
     <div className='amount'>
       <CurrencyInput 
-      prefix="$" 
+      prefix="£" 
       value={amount}
       decimalsLimit={2}
       onValueChange={(value, name) => setAmount(value)}
